@@ -13,27 +13,27 @@
 
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/1.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/1.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/2.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/2.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/3.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/3.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/4.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/4.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/5.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/5.png">
 </picture>
 
 <picture>
-  <img src="https://github.com/yellowmonth/task5/blob/main/assets/screens/6.png">
+  <img src="https://github.com/yellowmonth/task6/blob/main/assets/screens/6.png">
 </picture>
 
 
